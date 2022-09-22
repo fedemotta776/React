@@ -1,0 +1,67 @@
+.navegador {
+    background-color: #f0899f;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 100%;
+  }
+  .navegador .active {
+    background-color: #f7c0cf;
+  }
+  .navegador .active2 {
+    background-color: #f7c0cf;
+    padding: 10px;
+    align-items: center;
+  }
+  .navegador .elevenLogo {
+    width: 150px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .navegador .panelNav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 200px;
+    height: 45px;
+  }
+  .navegador .linea {
+    height: 1px;
+    background: white;
+    margin-top: 5px;
+  }
+  .navegador .Redes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    padding: 5px;
+  }
+  .navegador .Redes .iconoRedesA {
+    width: 40px;
+    padding: 5px;
+    opacity: 0.5;
+  }
+  .navegador .Redes .iconoRedesA:hover {
+    opacity: 0.8;
+    transition: opacity 0.35s ease-in-out;
+  }
+  .navegador .Redes .iconoRedesB {
+    width: 40px;
+    padding: 5px;
+    opacity: 0.5;
+  }
+  .navegador .Redes .iconoRedesB:hover {
+    opacity: 0.8;
+    transition: opacity 0.35s ease-in-out;
+  }
+  .navegador .Redes .iconoRedesC {
+    width: 40px;
+    padding: 5px;
+    opacity: 0.5;
+  }
+  .navegador .Redes .iconoRedesC:hover {
+    opacity: 0.8;
+    transition: opacity 0.35s ease-in-out;
+  }
